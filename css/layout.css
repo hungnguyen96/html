@@ -1,0 +1,45 @@
+#container{
+	width:90%;
+	background-color:#ffaaaa;
+	min-height:500px;
+	margin:auto;
+}
+header{
+	background:red;
+	width:100%;
+	margin-bottom:27px;
+	min-height:50px;
+}
+nav{
+	background:yellow;
+	min-height:100px;
+	width:100%;
+}
+#content{
+	width:100%;
+	background:#0ffb;
+	overflow:auto;
+	padding:15px;
+	box-sizing:border-box;
+}
+#recycle{
+	width:29.284%;
+	background:#000deb;
+	min-height:300px;
+	float:left;
+	margin-right:23px;
+	
+}
+.service{
+	width:29.284%;
+	background:#a000ff;
+	min-height:300px;
+	float:left;
+	margin-right:23px;
+}
+footer{
+	background:#aaddef;
+	min-height:50px;
+	clear:left;
+}
+	
