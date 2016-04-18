@@ -1,0 +1,44 @@
+#container{
+	width:885px;
+	min-height:600px;
+	background-color:#aaff10;
+	margin:auto;
+}
+
+header{
+	min-height:100px;
+	background-color:#ffff0;
+}
+
+nav{
+	min-height:50px;
+	background-color:#eee;
+}
+
+#content{
+	min-height:300px;
+	background-color:#11ff44;
+}
+
+#recycle{
+	width:255px;
+	min-height:300px;
+	background-color:#ff00ff;
+	float:left;
+	margin-right:20px;
+	padding:0 10px;
+	box-sizing:border-box;
+}
+
+.services{
+	width:260px;
+	min-height:300px;
+	background-color:#ffbb11;
+	float:left;
+	margin-right:20px;
+}
+
+footer{
+	min-height:50px;
+	background-color:#aaa;
+}

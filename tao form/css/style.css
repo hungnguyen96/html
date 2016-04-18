@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+}
+body
+{
+	background:#f8f8f8;
+	color:#7b6d7a;
+}
+h1
+{
+	color:#6f6a7a;	
+}
+ul li
+{
+		list-style-image:url(../images/sqorange.gif);
+		line-height:1.6em;
+}
+table
+{
+	border-spacing:0;
+}
+#tb1 th,#tb1 td
+{
+	border-top:2px solid #ecf4ff;
+	border-right:2px solid #d7dee4;
+	border-bottom:2px solid #d8dee0;
+	background:#dle2ff;
+}
+#tb1 .head th:first-child
+{
+	border-top-left-radius:10px;
+}
+#tb1 .head th:last-child
+{
+	border-top-right-radius:10px;
+	
+}
+#tb1 .color th,#tb1 .color td
+{
+	background:#e8eff5;
+}
